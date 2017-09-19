@@ -1,5 +1,5 @@
 {
-  "name": "DragonScale",
+  "name": "dragonscores",
   "version": "0.0.1",
   "description": "So simple dev environment designed to work with WP Theme Development.",
   "main": "index.php",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/richwertz/gulp-dev"
+    "url": "git+https://github.com/richwertz/dragonscores"
   },
-  "author": "Morten Rand-Hendriksen",
+  "author": "Rich Wertz",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/richwertz/gulp-dev/issues"
+    "url": "https://github.com/richwertz/dragonscores/issues"
   },
-  "homepage": "https://github.com/richwertz/gulp-dev#readme",
+  "homepage": "https://github.com/richwertz/dragonscores#readme",
   "devDependencies": {
     "autoprefixer": "^6.5.2",
     "browser-sync": "^2.17.6",
